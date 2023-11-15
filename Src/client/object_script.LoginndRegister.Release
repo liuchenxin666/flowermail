@@ -1,0 +1,12 @@
+release/buttondelegate.o
+release/main.o
+release/login.o
+release/mainwindow.o
+release/reveiver.o
+release/rregist.o
+release/user.o
+release/qrc_image.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_reveiver.o
+release/moc_rregist.o

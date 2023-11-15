@@ -1,0 +1,12 @@
+debug/buttondelegate.o
+debug/main.o
+debug/login.o
+debug/mainwindow.o
+debug/reveiver.o
+debug/rregist.o
+debug/user.o
+debug/qrc_image.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_reveiver.o
+debug/moc_rregist.o

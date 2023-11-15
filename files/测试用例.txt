@@ -1,0 +1,11 @@
+账号：lcx2       111111
+          zby2      111111
+          hy2       111111
+          zn2       111111
+          cyl2       111111
+
+用例
+（1）        lcx2         cyl2         Saturday        Are you going to Paradise Street tomorrow?
+（2）        zby2        cyl2         Sunday           Do you visit the Forbidden City on National Day?
+（3）        hy2          cyl2        Reunion          I ate olive nut moon-cakes  on the Mid-Autumn Festival.
+（4）        cyl2         zn2         Play                 I just ask, are you on the number?
